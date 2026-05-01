@@ -122,7 +122,6 @@ This project is actively evolving. Planned improvements include:
 - 🔄 Automated Data Pipelines  
 - 🧠 Advanced Data Modeling with KPIs  
 - 🧪 Enhanced Data Quality Framework  
-- ☁️ Cloud Integration (Azure / AWS)  
 
 ---
 
